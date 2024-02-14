@@ -12,9 +12,9 @@
 <a href="https://linkedin.com/in/youminglin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youminglin" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minglin1995&show_icons=true&locale=en&layout=compact&theme=ambient_gradientk" alt="minglin1995" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minglin1995&theme=ambient_gradientk&show_icons=true&locale=en&layout=compact" alt="minglin1995" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minglin1995&show_icons=true&locale=en&theme=ambient_gradientk" alt="minglin1995" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minglin1995&theme=ambient_gradientk&show_icons=true&locale=en" alt="minglin1995" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minglin1995&theme=ambient_gradientk" alt="minglin1995" /></p>
 
