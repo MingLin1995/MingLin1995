@@ -1,16 +1,27 @@
-<h1 align="center">Hi 👋, I'm Ming</h1>
+<h1 align="center">👋 Hi I'm Ming</h1>
 <h3 align="center">一位興趣使然的工程師</h3>
 
--  All of my projects are available at [https://www.minglin.vip/projects](https://www.minglin.vip/projects)
+-  All of my projects are available at [Ming's Projects](https://www.minglin.vip/projects)
+-  Know about my experiences [Ming's Resume](https://www.minglin.vip/Ming's%20Resume.pdf)
 
--  How to reach me **ben014335@gmail.com**
+<h3 align="left">Connect with me：</h3>
 
--  Know about my experiences [https://www.minglin.vip/Ming's%20Resume.pdf](https://www.minglin.vip/Ming's%20Resume.pdf)
+[![Linkined Badge](https://img.shields.io/badge/Linkined-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyo036563%2F)](https://www.linkedin.com/in/youminglin/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:ben014335@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/youminglin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youminglin" height="30" width="40" /></a>
-</p>
+<h3 align="left">Backend Development</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,flask,mysql,mongodb,redis)](https://skillicons.dev)
+
+<h3 align="left">Tools</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,nginx,docker,git,github,githubactions,jest,figma,postman)](https://skillicons.dev)
+
+<h3 align="left">Frontend Development</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minglin1995&theme=ambient_gradient&show_icons=true&locale=en&layout=donut" alt="minglin1995" /></p>
 
