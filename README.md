@@ -18,3 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minglin1995&theme=ambient_gradient" alt="minglin1995" /></p>
 
+[![Ming's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minglin1995)](https://github.com/anuraghazra/github-readme-stats)
