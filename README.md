@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi I'm Ming</h1>
-<h3 align="center">一位興趣使然的工程師</h3>
+<h3 align="center">我只是個興趣使然的工程師</h3>
 
 -  All of my projects are available at [Ming's Projects](https://www.minglin.vip/projects)
 -  Know about my experiences [Ming's Resume](https://www.minglin.vip/Ming's%20Resume.pdf)
