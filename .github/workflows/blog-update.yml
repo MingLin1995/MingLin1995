@@ -21,7 +21,7 @@ jobs:
         run: npm install rss-parser
 
       - name: Parse RSS and Update README
-        run: node ./scripts/parse-rss.js > README.md
+        run: node ./scripts/parse-rss.js
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v4
