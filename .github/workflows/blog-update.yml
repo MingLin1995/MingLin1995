@@ -1,0 +1,28 @@
+name: Update README with Latest Blog Posts
+
+on:
+  schedule:
+    - cron: '0 0 * * *' 
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install rss-parser
+
+      - name: Parse RSS and Update README
+        run: node ./scripts/parse-rss.js > README.md
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'Update README with latest blog posts'
