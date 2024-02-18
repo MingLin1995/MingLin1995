@@ -23,6 +23,12 @@ jobs:
       - name: Parse RSS and Update README
         run: node ./scripts/parse-rss.js > README.md
 
+      - name: Pull latest changes
+        run: |
+          git config --global user.email "ben014335@gmail.com"
+          git config --global user.name "Ming"
+          git pull origin master --rebase
+
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
