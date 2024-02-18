@@ -4,6 +4,15 @@
 -  All of my projects are available at [Ming's Projects](https://www.minglin.vip/projects)
 -  Know about my experiences [Ming's Resume](https://www.minglin.vip/Ming's%20Resume.pdf)
 
+<h3 align="left">On my blog</h3>
+
+<!-- BLOG-POST-LIST:START -->
+- [測試文章標第二](https://minglin.coderbridge.io/2024/02/18/test2/)
+- [測試文章標題](https://minglin.coderbridge.io/2024/02/18/test/)
+<!-- BLOG-POST-LIST:END -->
+
+More on [Ming's Blog](https://minglin.coderbridge.io/)
+
 <h3 align="left">Connect with me：</h3>
 
 [![Linkined Badge](https://img.shields.io/badge/Linkined-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyo036563%2F)](https://www.linkedin.com/in/youminglin/)
@@ -20,12 +29,6 @@
 <h3 align="left">Frontend Development</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
-
-<!-- BLOG-POST-LIST:START -->
-- [測試文章標第二](https://minglin.coderbridge.io/2024/02/18/test2/)
-- [測試文章標題](https://minglin.coderbridge.io/2024/02/18/test/)
-<!-- BLOG-POST-LIST:END -->
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minglin1995&theme=ambient_gradient&show_icons=true&locale=en&layout=donut" alt="minglin1995" /></p>
 
