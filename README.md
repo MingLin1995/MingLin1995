@@ -22,7 +22,10 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
 <!-- BLOG-POST-LIST:START -->
+- [測試文章標第二](https://minglin.coderbridge.io/2024/02/18/test2/)
+- [測試文章標題](https://minglin.coderbridge.io/2024/02/18/test/)
 <!-- BLOG-POST-LIST:END -->
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minglin1995&theme=ambient_gradient&show_icons=true&locale=en&layout=donut" alt="minglin1995" /></p>
 
