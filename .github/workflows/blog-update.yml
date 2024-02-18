@@ -15,21 +15,13 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3  
         with:
-          node-version: '20.x' 
+          node-version: '20.8.1' 
 
       - name: Install dependencies
         run: npm install rss-parser
 
       - name: Parse RSS and Update README
         run: node ./scripts/parse-rss.js > README.md
-
-      - name: Configure git
-        run: |
-          git config --global user.email "ben014335@gmail.com"
-          git config --global user.name "Ming"
-
-      - name: Pull latest changes with rebase
-        run: git pull --rebase origin master
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v4
