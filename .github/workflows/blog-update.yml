@@ -3,7 +3,7 @@ name: Update README with Latest Blog Posts
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 * * * *'
+    - cron: '0 22 * * *' # 每天台北時間早上六點更新一次，github排程問題，通常會延遲執行
 
 jobs:
   update-readme:
