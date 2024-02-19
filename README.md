@@ -7,9 +7,9 @@
 <h3 align="left">On my blog</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [測試文章標第二](https://minglin.coderbridge.io/2024/02/18/test2/)
-- [測試文章標題](https://minglin.coderbridge.io/2024/02/18/test/)
+- [建立 AWS EC2 Instance](https://minglin.coderbridge.io/2024/02/18/建立AWS-EC2-Instance/)
 <!-- BLOG-POST-LIST:END -->
+
 
 More on [Ming's Blog](https://minglin.coderbridge.io/)
 
