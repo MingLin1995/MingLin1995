@@ -7,8 +7,10 @@
 <h3 align="left">On my blog</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux 基本操作](https://minglin.coderbridge.io/2024/02/19/Linux-基本操作/)
 - [建立 AWS EC2 Instance](https://minglin.coderbridge.io/2024/02/18/建立AWS-EC2-Instance/)
 <!-- BLOG-POST-LIST:END -->
+
 
 
 
