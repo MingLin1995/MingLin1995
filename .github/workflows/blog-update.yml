@@ -1,8 +1,9 @@
 name: Update README with Latest Blog Posts
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '20 * * * *'
+    - cron: '30 * * * *'
 
 jobs:
   update-readme:
