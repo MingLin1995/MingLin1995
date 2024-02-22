@@ -7,11 +7,13 @@
 <h3 align="left">On my blog</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker 安裝 MySQL & 資料庫匯出/匯入 & 匯入中文亂碼解決方法](https://minglin.coderbridge.io/2024/02/22/Docker-MySQL/)
 - [Docker 基本操作](https://minglin.coderbridge.io/2024/02/21/Docker-基本操作/)
 - [Git 基本操作](https://minglin.coderbridge.io/2024/02/20/Git-基本操作/)
 - [Linux 基本操作](https://minglin.coderbridge.io/2024/02/19/Linux-基本操作/)
 - [建立 AWS EC2 Instance](https://minglin.coderbridge.io/2024/02/18/建立AWS-EC2-Instance/)
 <!-- BLOG-POST-LIST:END -->
+
 
 
 
