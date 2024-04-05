@@ -15,14 +15,6 @@
 - [Linux 基本操作](https://minglin.coderbridge.io/2024/02/19/Linux-基本操作/)
 <!-- BLOG-POST-LIST:END -->
 
-
-
-
-
-
-
-
-
 More on [Ming's Blog](https://minglin.coderbridge.io/)
 
 <h3 align="left">Connect with me：</h3>
@@ -42,8 +34,15 @@ More on [Ming's Blog](https://minglin.coderbridge.io/)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
+<h3 align="left">GitHub Status</h3>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minglin1995&theme=ambient_gradient&show_icons=true&locale=en&layout=compact&hide_border=true&hide=html,css,scss&langs_count=3" alt="minglin1995" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=minglin1995&theme=ambient_gradient&show_icons=true&locale=en&hide=issues,contribs&hide_border=true" alt="minglin1995" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minglin1995&theme=ambient_gradient&hide_border=true" alt="minglin1995" /></p>
+
+<h3 align="left">LeetCode Status</h3>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/MingLin1995?theme=nord)
+
