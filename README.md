@@ -45,5 +45,5 @@ More on [Ming's Blog](https://minglin.coderbridge.io/)
 
 <h3 align="left">LeetCode Status</h3>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/MingLin1995?theme=nord)
+[![Ming's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=MingLin1995&theme=dark)](https://leetcode.com/MingLin1995/)
 
