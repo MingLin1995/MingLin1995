@@ -15,7 +15,6 @@
 - [Linux 基本操作](https://minglin.coderbridge.io/2024/02/19/Linux-基本操作/)
 <!-- BLOG-POST-LIST:END -->
 
-
 More on [Ming's Blog](https://minglin.coderbridge.io/)
 
 <h3 align="left">Connect with me：</h3>
@@ -45,5 +44,4 @@ More on [Ming's Blog](https://minglin.coderbridge.io/)
 
 <h3 align="left">LeetCode Status</h3>
 
-[![Ming's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=MingLin1995&theme=dark)](https://leetcode.com/MingLin1995/)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/MingLin1995?theme=light,unicorn&ext=heatmap)
