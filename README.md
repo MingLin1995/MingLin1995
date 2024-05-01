@@ -8,12 +8,13 @@
 <h3 align="left">On my blog</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nginx & SSL & Godaddy](https://minglin.coderbridge.io/2024/05/01/Nginx-SSL-Godaddy/)
 - [關於我轉職變成軟體工程師這檔事](https://minglin.coderbridge.io/2024/03/29/career-change/)
 - [Docker 安裝 MySQL & 資料庫匯出/匯入 & 匯入中文亂碼解決方法](https://minglin.coderbridge.io/2024/02/22/Docker-MySQL/)
 - [Docker、Docker Compose基本操作](https://minglin.coderbridge.io/2024/02/21/Docker-DockerCompose-基本操作/)
 - [Git 基本操作](https://minglin.coderbridge.io/2024/02/20/Git-基本操作/)
-- [Linux 基本操作](https://minglin.coderbridge.io/2024/02/19/Linux-基本操作/)
 <!-- BLOG-POST-LIST:END -->
+
 
 
 
