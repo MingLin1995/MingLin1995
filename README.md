@@ -15,39 +15,6 @@
 - [Git 基本操作](https://minglin.coderbridge.io/2024/02/20/Git-基本操作/)
 <!-- BLOG-POST-LIST:END -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 More on [Ming's Blog](https://minglin.coderbridge.io/)
 
 <h3 align="left">Connect with me：</h3>
@@ -57,11 +24,11 @@ More on [Ming's Blog](https://minglin.coderbridge.io/)
 
 <h3 align="left">Backend Development</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,flask,mysql,mongodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,py,flask,mysql,mongodb,redis,postgres)](https://skillicons.dev)
 
 <h3 align="left">Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,nginx,docker,git,github,githubactions,jest,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,nginx,docker,git,github,gitlab,githubactions,jest,figma,postman)](https://skillicons.dev)
 
 <h3 align="left">Frontend Development</h3>
 
