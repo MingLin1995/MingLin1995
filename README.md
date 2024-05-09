@@ -22,13 +22,17 @@ More on [Ming's Blog](https://minglin.coderbridge.io/)
 [![Linkined Badge](https://img.shields.io/badge/Linkined-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyo036563%2F)](https://www.linkedin.com/in/youminglin/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:ben014335@gmail.com)
 
+<h3 align="left">Ｍain Technologies Used</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,postgres,docker,nginx,aws,gitlab)](https://skillicons.dev)
+
 <h3 align="left">Backend Development</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,ts,nestjs,py,flask,mysql,mongodb,redis,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,flask,mysql,mongodb,redis)](https://skillicons.dev)
 
 <h3 align="left">Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,nginx,docker,git,github,githubactions,gitlab,jest,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,githubactions,jest,postman)](https://skillicons.dev)
 
 <h3 align="left">Frontend Development</h3>
 
