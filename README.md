@@ -5,7 +5,7 @@
 -  All of my projects are available at [Ming's Projects](https://www.minglin.vip/projects)
 -  Know about my experiences [Ming's Resume](https://www.minglin.vip/Ming's%20Resume.pdf)
 
-<h3 align="left">On my blog</h3>
+<h3 align="left">On My Blog</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [Nginx & SSL & Godaddy](https://minglin.coderbridge.io/2024/05/01/Nginx-SSL-Godaddy/)
@@ -15,9 +15,9 @@
 - [Git 基本操作](https://minglin.coderbridge.io/2024/02/20/Git-基本操作/)
 <!-- BLOG-POST-LIST:END -->
 
-More on [Ming's Blog](https://minglin.coderbridge.io/)
+More on [Ming's Blog](https://minglin.coderbridge.io/about/)
 
-<h3 align="left">Connect with me：</h3>
+<h3 align="left">Connect With Me</h3>
 
 [![Linkined Badge](https://img.shields.io/badge/Linkined-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyo036563%2F)](https://www.linkedin.com/in/youminglin/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:ben014335@gmail.com)
