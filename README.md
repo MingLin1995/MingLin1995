@@ -24,11 +24,11 @@ More on [Ming's Blog](https://minglin.coderbridge.io/)
 
 <h3 align="left">Backend Development</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,py,flask,mysql,mongodb,redis,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,ts,nestjs,py,flask,mysql,mongodb,redis,postgres)](https://skillicons.dev)
 
 <h3 align="left">Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,nginx,docker,git,github,gitlab,githubactions,jest,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,nginx,docker,git,github,githubactions,gitlab,jest,figma,postman)](https://skillicons.dev)
 
 <h3 align="left">Frontend Development</h3>
 
