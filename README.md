@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi I'm Ming</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=3000&pause=1000&color=EFC7F7&center=true&vCenter=true&random=false&width=1024&lines=%E6%88%91%E5%8F%AA%E6%98%AF%E5%80%8B%E8%88%88%E8%B6%A3%E4%BD%BF%E7%84%B6%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%AB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=900&duration=3000&pause=1000&color=EFC7F7&center=true&vCenter=true&random=false&width=1024&lines=%E6%88%91%E5%8F%AA%E6%98%AF%E5%80%8B%E8%88%88%E8%B6%A3%E4%BD%BF%E7%84%B6%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%AB)](https://git.io/typing-svg)
 
 -  All of my projects are available at [Ming's Projects](https://www.minglin.vip/projects)
 -  Know about my experiences [Ming's Resume](https://www.minglin.vip/Ming's%20Resume.pdf)
@@ -14,12 +14,6 @@
 - [Docker 安裝 MySQL & 資料庫匯出/匯入 & 匯入中文亂碼解決方法](https://minglin.coderbridge.io/2024/02/22/Docker-MySQL/)
 - [Docker、Docker Compose基本操作](https://minglin.coderbridge.io/2024/02/21/Docker-DockerCompose-基本操作/)
 <!-- BLOG-POST-LIST:END -->
-
-
-
-
-
-
 
 More on [Ming's Blog](https://minglin.coderbridge.io/about/)
 
