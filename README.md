@@ -15,31 +15,6 @@
 - [Docker 安裝 MySQL & 資料庫匯出/匯入 & 匯入中文亂碼解決方法](https://minglin.coderbridge.io/2024/02/22/Docker-MySQL/)
 <!-- BLOG-POST-LIST:END -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 More on [Ming's Blog](https://minglin.coderbridge.io/about/)
 
 <h3 align="left">Connect With Me</h3>
@@ -49,15 +24,15 @@ More on [Ming's Blog](https://minglin.coderbridge.io/about/)
 
 <h3 align="left">Ｍain Technologies Used</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,postgres,docker,nginx,aws,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,postgres,prisma,docker,nginx,aws)](https://skillicons.dev)
 
 <h3 align="left">Backend Development</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,flask,mysql,mongodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,flask,mysql,mongodb,redis,linux,gcp)](https://skillicons.dev)
 
 <h3 align="left">Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,githubactions,jest,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,jest,postman)](https://skillicons.dev)
 
 <h3 align="left">Frontend Development</h3>
 
