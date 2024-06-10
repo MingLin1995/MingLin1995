@@ -28,7 +28,7 @@ More on [Ming's Blog](https://minglin.coderbridge.io/about/)
 
 <h3 align="left">Backend Development</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,flask,mysql,mongodb,redis,linux,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,flask,mysql,mongodb,redis,linux)](https://skillicons.dev)
 
 <h3 align="left">Tools</h3>
 
