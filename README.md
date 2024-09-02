@@ -39,9 +39,9 @@ More on [Ming's Blog](https://minglin.coderbridge.io/about/)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
 <h3 align="left">GitHub Status</h3>
-<p><img align="center" src="https://github-readme-minglin1995s-projects.vercel.app/api/top-langs?username=minglin1995&count_private=true&theme=ambient_gradient&show_icons=true&locale=en&layout=compact&hide_border=true&hide=html,css,scss&langs_count=3" alt="minglin1995" /></p>
+<p><img align="center" src="https://github-readme-stats-minglin1995s-projects.vercel.app/api/top-langs?username=minglin1995&count_private=true&theme=ambient_gradient&show_icons=true&locale=en&layout=compact&hide_border=true&hide=html,css,scss&langs_count=3" alt="minglin1995" /></p>
 
-<p><img align="center" src="https://github-readme-minglin1995s-projects.vercel.app/api?username=minglin1995&count_private=true&theme=ambient_gradient&show_icons=true&locale=en&hide=issues,contribs&hide_border=true" alt="minglin1995" /></p>
+<p><img align="center" src="https://github-readme-stats-minglin1995s-projects.vercel.app/api?username=minglin1995&count_private=true&theme=ambient_gradient&show_icons=true&locale=en&hide=issues,contribs&hide_border=true" alt="minglin1995" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minglin1995&count_private=true&theme=ambient_gradient&hide_border=true" alt="minglin1995" /></p>
 
