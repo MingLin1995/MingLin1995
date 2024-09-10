@@ -8,11 +8,11 @@
 <h3 align="left">On My Blog</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS - EC2 AMI 資料備份、移轉](https://minglin.coderbridge.io/2024/09/10/AMI/)
 - [AWS Lambda 設定排程自動清理 S3](https://minglin.coderbridge.io/2024/08/04/Lambda/)
 - [自動化資料庫備份上傳到GoogleDrive](https://minglin.coderbridge.io/2024/05/16/資料庫備份/)
 - [AWS - IAM & S3 & CloudFront](https://minglin.coderbridge.io/2024/05/14/AWS-IAM-S3-CloudFront/)
 - [Nginx & SSL & Godaddy](https://minglin.coderbridge.io/2024/05/01/Nginx-SSL-Godaddy/)
-- [關於我轉職變成軟體工程師這檔事](https://minglin.coderbridge.io/2024/03/29/career-change/)
 <!-- BLOG-POST-LIST:END -->
 
 More on [Ming's Blog](https://minglin.coderbridge.io/about/)
