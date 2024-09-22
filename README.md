@@ -8,6 +8,7 @@
 <h3 align="left">On My Medium</h3>
 
 <!-- MEDIUM-POST-LIST:START -->
+- [關於我轉職變成軟體工程師這檔事](https://medium.com/@MingLin1995/%E9%97%9C%E6%96%BC%E6%88%91%E8%BD%89%E8%81%B7%E8%AE%8A%E6%88%90%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E9%80%99%E6%AA%94%E4%BA%8B-88d66e2b68af?source=rss-c2fe90462a50------2)
 <!-- MEDIUM-POST-LIST:END -->
 
 More on [Ming's Medium](https://medium.com/@MingLin1995)
