@@ -2,20 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=900&duration=3000&pause=1000&color=EFC7F7&center=true&vCenter=true&random=false&width=1024&lines=%E6%88%91%E5%8F%AA%E6%98%AF%E5%80%8B%E8%88%88%E8%B6%A3%E4%BD%BF%E7%84%B6%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%AB)](https://git.io/typing-svg)
 
--  All of my projects are available at [Ming's Projects](https://www.minglin.vip/projects)
--  Know about my experiences [Ming's Resume](https://www.minglin.vip/Ming's%20Resume.pdf)
+- All of my projects are available at [Ming's Projects](https://www.minglin.vip/projects)
+- Know about my experiences [Ming's Resume](https://www.minglin.vip/Ming's%20Resume.pdf)
 
-<h3 align="left">On My Blog</h3>
+<h3 align="left">On My Medium</h3>
 
-<!-- BLOG-POST-LIST:START -->
-- [AWS - EC2 AMI 資料備份、移轉](https://minglin.coderbridge.io/2024/09/10/AMI/)
-- [AWS Lambda 設定排程自動清理 S3](https://minglin.coderbridge.io/2024/08/04/Lambda/)
-- [自動化資料庫備份上傳到GoogleDrive](https://minglin.coderbridge.io/2024/05/16/資料庫備份/)
-- [AWS - IAM & S3 & CloudFront](https://minglin.coderbridge.io/2024/05/14/AWS-IAM-S3-CloudFront/)
-- [Nginx & SSL & Godaddy](https://minglin.coderbridge.io/2024/05/01/Nginx-SSL-Godaddy/)
-<!-- BLOG-POST-LIST:END -->
+<!-- MEDIUM-POST-LIST:START -->
+<!-- MEDIUM-POST-LIST:END -->
 
-More on [Ming's Blog](https://minglin.coderbridge.io/about/)
+More on [Ming's Medium](https://medium.com/@MingLin1995)
 
 <h3 align="left">Connect With Me</h3>
 

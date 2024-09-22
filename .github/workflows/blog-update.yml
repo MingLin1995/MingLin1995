@@ -3,19 +3,19 @@ name: Update README with Latest Blog Posts
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 22 * * *' # 每天台北時間早上六點更新一次，github排程問題，通常會延遲執行
+    - cron: "0 22 * * *" # 每天台北時間早上六點更新一次，github排程問題，通常會延遲執行
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3 
+        uses: actions/checkout@v3
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3  
+        uses: actions/setup-node@v3
         with:
-          node-version: '20.8.1' 
+          node-version: "20.8.1"
 
       - name: Install dependencies
         run: npm install rss-parser
@@ -26,7 +26,7 @@ jobs:
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 'Update README with latest blog posts'
+          commit_message: "Update README with latest Medium  posts"
           branch: master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
