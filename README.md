@@ -24,19 +24,19 @@ More on [Ming's Medium](https://medium.com/@MingLin1995)
 
 <h3 align="left">Ｍain Technologies Used</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,postgres,prisma,docker,nginx,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,postgres,prisma,docker,aws)](https://skillicons.dev)
 
-<h3 align="left">Backend Development</h3>
+<h3 align="left">Backend Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,flask,mysql,mongodb,redis,linux)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,py,flask,mysql,mongodb,redis,jest)](https://skillicons.dev)
 
-<h3 align="left">Tools</h3>
+<h3 align="left">DevOps Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,jest,postman)](https://skillicons.dev)
+[![DevOps Skills](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,gcp,ubuntu,nginx,linux)](https://skillicons.dev)
 
-<h3 align="left">Frontend Development</h3>
+<h3 align="left">Frontend Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
 <h3 align="left">GitHub Status</h3>
 <p><img align="center" src="https://github-readme-stats-minglin1995s-projects.vercel.app/api/top-langs?username=minglin1995&count_private=true&theme=ambient_gradient&show_icons=true&locale=en&layout=compact&hide_border=true&hide=html,css,scss&langs_count=3" alt="minglin1995" /></p>
