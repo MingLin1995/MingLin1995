@@ -8,11 +8,11 @@
 <h3 align="left">On My Medium</h3>
 
 <!-- MEDIUM-POST-LIST:START -->
+- [AWS — Lambda 排程自動清理 S3](https://medium.com/@MingLin1995/aws-lambda-%E6%8E%92%E7%A8%8B%E8%87%AA%E5%8B%95%E6%B8%85%E7%90%86-s3-44b941e6c055?source=rss-c2fe90462a50------2)
 - [AWS — 設定 IAM、S3 與 CloudFront](https://medium.com/@MingLin1995/aws-%E8%A8%AD%E5%AE%9A-iam-s3-%E8%88%87-cloudfront-d0c8ac5ec2e6?source=rss-c2fe90462a50------2)
 - [Nginx 配置 SSL 並結合 Godaddy 網域實現反向代理](https://medium.com/@MingLin1995/nginx-%E9%85%8D%E7%BD%AE-ssl-%E4%B8%A6%E7%B5%90%E5%90%88-godaddy-%E7%B6%B2%E5%9F%9F%E5%AF%A6%E7%8F%BE%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86-5f71de8b0907?source=rss-c2fe90462a50------2)
 - [使用 Docker 安裝 MySQL、資料庫匯出/匯入與中文亂碼問題解決](https://medium.com/@MingLin1995/%E4%BD%BF%E7%94%A8-docker-%E5%AE%89%E8%A3%9D-mysql-%E8%B3%87%E6%96%99%E5%BA%AB%E5%8C%AF%E5%87%BA-%E5%8C%AF%E5%85%A5%E8%88%87%E4%B8%AD%E6%96%87%E4%BA%82%E7%A2%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA-4e6791b2f5c7?source=rss-c2fe90462a50------2)
 - [自動化資料庫備份上傳到GoogleDrive](https://medium.com/@MingLin1995/%E8%87%AA%E5%8B%95%E5%8C%96%E8%B3%87%E6%96%99%E5%BA%AB%E5%82%99%E4%BB%BD%E4%B8%8A%E5%82%B3%E5%88%B0googledrive-7aed6ca93fc5?source=rss-c2fe90462a50------2)
-- [Docker 基本安裝、操作](https://medium.com/@MingLin1995/docker-%E5%9F%BA%E6%9C%AC%E5%AE%89%E8%A3%9D-%E6%93%8D%E4%BD%9C-b5c6a5b5de6c?source=rss-c2fe90462a50------2)
 <!-- MEDIUM-POST-LIST:END -->
 
 More on [Ming's Medium](https://medium.com/@MingLin1995)
