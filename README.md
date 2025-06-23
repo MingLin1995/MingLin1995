@@ -36,7 +36,7 @@ More on [Ming's Medium](https://medium.com/@MingLin1995)
 
 <h3 align="left">Frontend Skills</h3>
 
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,next)](https://skillicons.dev)
 
 <details>
 
