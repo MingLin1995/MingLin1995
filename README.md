@@ -8,11 +8,11 @@
 <h3 align="left">On My Medium</h3>
 
 <!-- MEDIUM-POST-LIST:START -->
+- [轉生為軟體工程師一年後的我](https://medium.com/@MingLin1995/%E8%BD%89%E7%94%9F%E7%82%BA%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E4%B8%80%E5%B9%B4%E5%8D%8A%E4%BB%A5%E5%BE%8C%E7%9A%84%E6%88%91-6d23c410d42a?source=rss-c2fe90462a50------2)
 - [Docker & Docker-Compose 基本用法](https://medium.com/@MingLin1995/docker-docker-compose-%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95-c86f7ddd15b1?source=rss-c2fe90462a50------2)
 - [AWS — EC2 AMI 資料備份與移轉教學](https://medium.com/@MingLin1995/aws-ec2-ami-%E8%B3%87%E6%96%99%E5%82%99%E4%BB%BD%E8%88%87%E7%A7%BB%E8%BD%89%E6%95%99%E5%AD%B8-85dad6cf0b2d?source=rss-c2fe90462a50------2)
 - [AWS — Lambda 排程自動清理 S3](https://medium.com/@MingLin1995/aws-lambda-%E6%8E%92%E7%A8%8B%E8%87%AA%E5%8B%95%E6%B8%85%E7%90%86-s3-44b941e6c055?source=rss-c2fe90462a50------2)
 - [AWS — 設定 IAM、S3 與 CloudFront](https://medium.com/@MingLin1995/aws-%E8%A8%AD%E5%AE%9A-iam-s3-%E8%88%87-cloudfront-d0c8ac5ec2e6?source=rss-c2fe90462a50------2)
-- [Nginx 配置 SSL 並結合 Godaddy 網域實現反向代理](https://medium.com/@MingLin1995/nginx-%E9%85%8D%E7%BD%AE-ssl-%E4%B8%A6%E7%B5%90%E5%90%88-godaddy-%E7%B6%B2%E5%9F%9F%E5%AF%A6%E7%8F%BE%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86-5f71de8b0907?source=rss-c2fe90462a50------2)
 <!-- MEDIUM-POST-LIST:END -->
 
 More on [Ming's Medium](https://medium.com/@MingLin1995)
