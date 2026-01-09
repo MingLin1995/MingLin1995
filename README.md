@@ -8,11 +8,11 @@
 <h3 align="left">On My Medium</h3>
 
 <!-- MEDIUM-POST-LIST:START -->
+- [Kubernetes（K8s）從觀念到實戰：學習筆記](https://medium.com/@MingLin1995/kubernetes-k8s-%E5%BE%9E%E8%A7%80%E5%BF%B5%E5%88%B0%E5%AF%A6%E6%88%B0-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-f99b31c31cf3?source=rss-c2fe90462a50------2)
 - [轉生為軟體工程師一年後的我](https://medium.com/@MingLin1995/%E8%BD%89%E7%94%9F%E7%82%BA%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E4%B8%80%E5%B9%B4%E5%8D%8A%E4%BB%A5%E5%BE%8C%E7%9A%84%E6%88%91-6d23c410d42a?source=rss-c2fe90462a50------2)
 - [Docker & Docker-Compose 基本用法](https://medium.com/@MingLin1995/docker-docker-compose-%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95-c86f7ddd15b1?source=rss-c2fe90462a50------2)
 - [AWS — EC2 AMI 資料備份與移轉教學](https://medium.com/@MingLin1995/aws-ec2-ami-%E8%B3%87%E6%96%99%E5%82%99%E4%BB%BD%E8%88%87%E7%A7%BB%E8%BD%89%E6%95%99%E5%AD%B8-85dad6cf0b2d?source=rss-c2fe90462a50------2)
 - [AWS — Lambda 排程自動清理 S3](https://medium.com/@MingLin1995/aws-lambda-%E6%8E%92%E7%A8%8B%E8%87%AA%E5%8B%95%E6%B8%85%E7%90%86-s3-44b941e6c055?source=rss-c2fe90462a50------2)
-- [AWS — 設定 IAM、S3 與 CloudFront](https://medium.com/@MingLin1995/aws-%E8%A8%AD%E5%AE%9A-iam-s3-%E8%88%87-cloudfront-d0c8ac5ec2e6?source=rss-c2fe90462a50------2)
 <!-- MEDIUM-POST-LIST:END -->
 
 More on [Ming's Medium](https://medium.com/@MingLin1995)
