@@ -24,35 +24,19 @@ More on [Ming's Medium](https://medium.com/@MingLin1995)
 
 <h3 align="left">Ｍain Technologies Used</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,postgres,prisma,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,postgres,prisma,redis,docker,aws,linux)](https://skillicons.dev)
 
 <h3 align="left">Backend Skills</h3>
 
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,py,flask,mysql,mongodb,redis,jest)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=bun,nodejs,express,py,flask,mongodb,mysql,jest)](https://skillicons.dev)
 
 <h3 align="left">DevOps Skills</h3>
 
-[![DevOps Skills](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,gcp,ubuntu,nginx,linux)](https://skillicons.dev)
+[![DevOps Skills](https://skillicons.dev/icons?i=gcp,cloudflare,nginx,git,github,githubactions,gitlab,ubuntu,grafana,prometheus)](https://skillicons.dev)
 
 <h3 align="left">Frontend Skills</h3>
 
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,next)](https://skillicons.dev)
-
-<details>
-
-<summary><h3 align="left">GitHub Status</h3></summary>
-
-<p><img align="center" src="https://github-readme-stats-git-main-minglin1995s-projects.vercel.app/api/top-langs?username=minglin1995&count_private=true&theme=ambient_gradient&show_icons=true&locale=en&layout=compact&hide_border=true&hide=html,css,scss&langs_count=3" alt="minglin1995" /></p>
-
-<p><img align="center" src="https://github-readme-stats-git-main-minglin1995s-projects.vercel.app/api?username=minglin1995&count_private=true&theme=ambient_gradient&show_icons=true&locale=en&hide=issues,contribs&hide_border=true" alt="minglin1995" /></p>
+[![Frontend Skills](https://skillicons.dev/icons?i=next,react,tailwind,remix,materialui)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minglin1995&count_private=true&theme=ambient_gradient&hide_border=true" alt="minglin1995" /></p>
 
-</details>
-
-<details>
-<summary><h3 align="left">LeetCode Status</h3></summary>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/MingLin1995?theme=light,unicorn&ext=heatmap)
-
-</details>
