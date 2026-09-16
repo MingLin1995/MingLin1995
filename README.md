@@ -2,8 +2,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=900&duration=3000&pause=1000&color=EFC7F7&center=true&vCenter=true&random=false&width=1024&lines=%E6%88%91%E5%8F%AA%E6%98%AF%E5%80%8B%E8%88%88%E8%B6%A3%E4%BD%BF%E7%84%B6%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%AB)](https://git.io/typing-svg)
 
+- **Open Source Contributor** to [NestJS Core](https://github.com/nestjs/nest) ([PR #17668](https://github.com/nestjs/nest/pull/17668) - Merged by Kamil Mysliwiec)
 - All of my projects are available at [Ming's Projects](https://www.minglin.vip/projects)
 - Know about my experiences [Ming's Resume](https://www.minglin.vip/Ming's%20Resume.pdf)
+
+<h3 align="left">Open Source Contributions</h3>
+
+<p>
+  <a href="https://github.com/nestjs/nest/pull/17668" target="_blank">
+    <img src="https://img.shields.io/badge/NestJS_Core-PR_%2317668_Merged-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS PR #17668 Merged" />
+  </a>
+</p>
+
+- **[NestJS Core (@nestjs/common)](https://github.com/nestjs/nest)**: 
+  [PR #17668: Support numeric string values in ParseEnumPipe](https://github.com/nestjs/nest/pull/17668) — 解決 HTTP 路由參數（`@Query()` / `@Param()`）純字串與數值列舉驗證問題，設計嚴謹的型別精確轉換，並補齊邊界測試套件，由創辦人 Kamil Mysliwiec 親自 Review 並合併進 master 分支。
 
 <h3 align="left">On My Medium</h3>
 
@@ -39,4 +51,3 @@ More on [Ming's Medium](https://medium.com/@MingLin1995)
 [![Frontend Skills](https://skillicons.dev/icons?i=next,react,tailwind,remix,materialui)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minglin1995&count_private=true&theme=ambient_gradient&hide_border=true" alt="minglin1995" /></p>
-
