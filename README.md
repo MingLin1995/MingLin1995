@@ -2,20 +2,31 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=900&duration=3000&pause=1000&color=EFC7F7&center=true&vCenter=true&random=false&width=1024&lines=%E6%88%91%E5%8F%AA%E6%98%AF%E5%80%8B%E8%88%88%E8%B6%A3%E4%BD%BF%E7%84%B6%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%AB)](https://git.io/typing-svg)
 
-- **Open Source Contributor** to [NestJS Core](https://github.com/nestjs/nest) ([PR #17668](https://github.com/nestjs/nest/pull/17668) - Merged by Kamil Mysliwiec)
+- **Open Source Contributor** to [NestJS Core](https://github.com/nestjs/nest) (PRs [#17668](https://github.com/nestjs/nest/pull/17668), [#17781](https://github.com/nestjs/nest/pull/17781), [#17797](https://github.com/nestjs/nest/pull/17797))
 - All of my projects are available at [Ming's Projects](https://www.minglin.vip/projects)
 - Know about my experiences [Ming's Resume](https://www.minglin.vip/Ming's%20Resume.pdf)
 
 <h3 align="left">Open Source Contributions</h3>
 
 <p>
+  <a href="https://github.com/nestjs/nest/pull/17781" target="_blank">
+    <img src="https://img.shields.io/badge/NestJS_Microservices-PR_%2317781_Merged-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS PR #17781 Merged" />
+  </a>
+  <a href="https://github.com/nestjs/nest/pull/17797" target="_blank">
+    <img src="https://img.shields.io/badge/NestJS_Microservices-PR_%2317797_Merged-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS PR #17797 Merged" />
+  </a>
   <a href="https://github.com/nestjs/nest/pull/17668" target="_blank">
-    <img src="https://img.shields.io/badge/NestJS_Core-PR_%2317668_Merged-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS PR #17668 Merged" />
+    <img src="https://img.shields.io/badge/NestJS_Common-PR_%2317668_Merged-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS PR #17668 Merged" />
   </a>
 </p>
 
+- **[NestJS Core (@nestjs/microservices)](https://github.com/nestjs/nest)**: 
+  - [PR #17781: Run the end hook when an event handler rejects](https://github.com/nestjs/nest/pull/17781) & [PR #17797: Close the Kafka request-response span exactly once](https://github.com/nestjs/nest/pull/17797)
+  - 治理微服務分散式追蹤（OpenTelemetry / APM）的 Span 生命週期洩漏問題。在基底 `Server` 設計具冪等性的 `createProcessingEndHookRunner` 防範非同步等待時重複關閉（模式獲官方採納推廣至多個傳輸層）；並深入解決 `ServerKafka` 在多值串流與 `KafkaRetriableException` 重試循環下的邊界缺陷，確保 Span 嚴格滿足 Exactly-Once 安全結算。由創辦人 Kamil Mysliwiec 合併進 master 分支。
+
 - **[NestJS Core (@nestjs/common)](https://github.com/nestjs/nest)**: 
-  [PR #17668: Support numeric string values in ParseEnumPipe](https://github.com/nestjs/nest/pull/17668) — 解決 HTTP 路由參數（`@Query()` / `@Param()`）純字串與數值列舉驗證問題，設計嚴謹的型別精確轉換，並補齊邊界測試套件，由創辦人 Kamil Mysliwiec 親自 Review 並合併進 master 分支。
+  - [PR #17668: Support numeric string values in ParseEnumPipe](https://github.com/nestjs/nest/pull/17668)
+  - 解決 HTTP 路由參數（`@Query()` / `@Param()`）純字串與數值列舉驗證問題，設計嚴謹的型別精確轉換，並補齊邊界測試套件，由創辦人 Kamil Mysliwiec 親自 Review 並合併進 master 分支。
 
 <h3 align="left">On My Medium</h3>
 
@@ -31,10 +42,10 @@ More on [Ming's Medium](https://medium.com/@MingLin1995)
 
 <h3 align="left">Connect With Me</h3>
 
-[![Linkined Badge](https://img.shields.io/badge/Linkined-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyo036563%2F)](https://www.linkedin.com/in/youminglin/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyouminglin%2F)](https://www.linkedin.com/in/youminglin/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:ben014335@gmail.com)
 
-<h3 align="left">Ｍain Technologies Used</h3>
+<h3 align="left">Main Technologies Used</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=nestjs,postgres,prisma,redis,docker,aws,linux)](https://skillicons.dev)
 
