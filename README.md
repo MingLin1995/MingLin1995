@@ -20,13 +20,18 @@
   </a>
 </p>
 
-- **[NestJS Core (@nestjs/microservices)](https://github.com/nestjs/nest)**: 
-  - [PR #17781: Run the end hook when an event handler rejects](https://github.com/nestjs/nest/pull/17781) & [PR #17797: Close the Kafka request-response span exactly once](https://github.com/nestjs/nest/pull/17797)
-  - 治理微服務分散式追蹤（OpenTelemetry / APM）的 Span 生命週期洩漏問題。在基底 `Server` 設計具冪等性的 `createProcessingEndHookRunner` 防範非同步等待時重複關閉（模式獲官方採納推廣至多個傳輸層）；並深入解決 `ServerKafka` 在多值串流與 `KafkaRetriableException` 重試循環下的邊界缺陷，確保 Span 嚴格滿足 Exactly-Once 安全結算。由創辦人 Kamil Mysliwiec 合併進 master 分支。
+Three PRs merged into [nestjs/nest](https://github.com/nestjs/nest) master.
 
-- **[NestJS Core (@nestjs/common)](https://github.com/nestjs/nest)**: 
-  - [PR #17668: Support numeric string values in ParseEnumPipe](https://github.com/nestjs/nest/pull/17668)
-  - 解決 HTTP 路由參數（`@Query()` / `@Param()`）純字串與數值列舉驗證問題，設計嚴謹的型別精確轉換，並補齊邊界測試套件，由創辦人 Kamil Mysliwiec 親自 Review 並合併進 master 分支。
+**`@nestjs/microservices` — tracing spans left open on failure paths**
+
+- [**#17781**](https://github.com/nestjs/nest/pull/17781) — When a message handler threw, NestJS skipped the hook that closes the tracing span: the failures you most need to trace left no telemetry, and each one stayed in memory for good. The one-shot guard added on the base `Server` class is today the only place in the package where that hook is called — Nest's author reused it across five transports in #17794.
+- [**#17797**](https://github.com/nestjs/nest/pull/17797) — Three more of the same on Kafka's request-response path. The worst leaked one span per retry, so the longer a downstream service stayed down, the faster memory grew.
+
+**`@nestjs/common` — a pipe that rejected every valid value**
+
+- [**#17668**](https://github.com/nestjs/nest/pull/17668) — `ParseEnumPipe` returned `400` for every member of a numeric enum, because HTTP params arrive as strings and the check compared `'0'` against `0`.
+
+→ [**How I found and fixed each one**](https://www.minglin.net/projects)
 
 <h3 align="left">On My Medium</h3>
 
