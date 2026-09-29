@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=900&duration=3000&pause=1000&color=EFC7F7&center=true&vCenter=true&random=false&width=1024&lines=%E6%88%91%E5%8F%AA%E6%98%AF%E5%80%8B%E8%88%88%E8%B6%A3%E4%BD%BF%E7%84%B6%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%AB)](https://git.io/typing-svg)
 
-- **Open Source Contributor** to [NestJS Core](https://github.com/nestjs/nest) (PRs [#17668](https://github.com/nestjs/nest/pull/17668), [#17781](https://github.com/nestjs/nest/pull/17781), [#17797](https://github.com/nestjs/nest/pull/17797))
-- All of my projects are available at [Ming's Projects](https://www.minglin.vip/projects)
-- Know about my experiences [Ming's Resume](https://www.minglin.vip/Ming's%20Resume.pdf)
+- **Open Source Contributor** to [NestJS Core](https://github.com/nestjs/nest) and [ioredis](https://github.com/redis/ioredis) — 4 merged PRs on tracing, retries and validation
+- All of my projects are available at [Ming's Projects](https://www.minglin.net/projects)
+- Know about my experiences [Ming's Resume](https://www.minglin.net/Ming's%20Resume.pdf)
 
 <h3 align="left">Open Source Contributions</h3>
 
@@ -18,9 +18,12 @@
   <a href="https://github.com/nestjs/nest/pull/17668" target="_blank">
     <img src="https://img.shields.io/badge/NestJS_Common-PR_%2317668_Merged-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS PR #17668 Merged" />
   </a>
+  <a href="https://github.com/redis/ioredis/pull/2204" target="_blank">
+    <img src="https://img.shields.io/badge/ioredis-PR_%232204_Merged-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="ioredis PR #2204 Merged" />
+  </a>
 </p>
 
-Three PRs merged into [nestjs/nest](https://github.com/nestjs/nest) master.
+#### [nestjs/nest](https://github.com/nestjs/nest)
 
 **`@nestjs/microservices` — tracing spans left open on failure paths**
 
@@ -30,6 +33,12 @@ Three PRs merged into [nestjs/nest](https://github.com/nestjs/nest) master.
 **`@nestjs/common` — a pipe that rejected every valid value**
 
 - [**#17668**](https://github.com/nestjs/nest/pull/17668) — `ParseEnumPipe` returned `400` for every member of a numeric enum, because HTTP params arrive as strings and the check compared `'0'` against `0`.
+
+#### [redis/ioredis](https://github.com/redis/ioredis)
+
+**A retry policy that stopped retrying**
+
+- [**#2204**](https://github.com/redis/ioredis/pull/2204) — After `retryStrategy` gave up, a manual `co retry count, so the client gave up on its first failure. Resetting the counter inside `connect()` wouldhave made automatic retries loop forever, since they call the same method; the fix keys off the connectnd fixed the same bug in `Cluster`.
 
 → [**How I found and fixed each one**](https://www.minglin.net/projects)
 
